@@ -8,5 +8,6 @@ public class GtiTest {
         System.out.println("hello github");
         System.out.println("hello github");
         System.out.println("push github");
+        System.out.println("pull github");
     }
 }
